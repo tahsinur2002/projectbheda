@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Bheda-69</title>
+</head>
+<body style="background-color: cornsilk; border-style: ridge; font-style: inherit; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  ">
+    <h1> <center>
+         Bheda-69 </center></h1>
+<p>
+    "Hey there, meme lovers! Welcome to "Bheda-69", the ultimate destination for hilarious memes that will make you snort-laugh in public. We're here to brighten your day, one meme at a time. Get ready to dive into a world of relatable humor, epic fails, and meme madness. Join us, follow along, and let's laugh together!"
+</p>
+<br>
+<p> <h3> <center> Let's meet with our Creators </center> </h3>
+</p> 
+<dl> <center>
+<dt>
+    <img src="CEO/1661834882549.jpg" width="250" style="top: auto;"> 
+    <p> TAHSINUR RAHMAN <h3> Present CEO of Bheda-69 <br></h3>   
+    </p>
+</dt></center>
+<br>
+<center> <dt>
+     <img src="CEO/skip.jpg"  width="250" >
+    <P>SHAKIB AL HASAN
+        <h3>Ex-CEO of Bheda-69</h3>
+    </P>
+</dt></center>
+<br>
+<center> 
+<dt> 
+   <img src="CEO/n.jpg"  width="250 " >
+          <P> NAYEM ISLAM
+            <h3>Will be CEO of Bheda-69</h3>
+          </P>
+</dt></center>
+<br>
+</dl>
+<br>
+<h3>If you're interested in watching our memes :</h3>
+<ul>
+<li>
+    <a href="indexpage2.html">প্রিয় অভিভাবকের সাথে একটি দিন</a>
+</li>
+<li> 
+    <a href="add3.html">প্রিয় দলের জন্য শুভকামনা</a>
+</li>
+<li>
+    <a href="add4.html"> Me Vs Others</a>
+</li>
+<li>
+    <a href="add5.html">Finally we reached Cox's Bazar.</a>
+
+</li>
+<li>
+    <a href="add6.html">Happy new year</a>
+</li>
+<li>
+    <a href="add7.html">"JHAL MURI" Khaba?</a>
+</li>
+
+<li> 
+    <a href="add8.html">Uss bhaii Uss </a>
+</li>
+<li>
+    <a href="add9.html"> দোস্ত, ট্যুরে চল </a>
+</li>
+<li>
+    <a href="a1.HTML">Others Vs We</a>
+</li>
+<li>
+    <a href="a2.html">Welcome to Sultan's Dine</a>
+</li>
+<li>
+    <a href="a3.html">Too hard</a>
+</li>
+
+</ul>
+<br>
+<h3>Let's see people's reactions to us:</h3>
+<table> <table border="2" cellspacing="2">
+     <thead>
+        <tr>
+         <th>  Title-</th> 
+         <th>  React-</th>
+         <th>  Share-</th> 
+         <th>  Engagement Rate</th>
+</tr>
+
+</thead>
+        <tbody>
+          <tr>
+            <th>প্রিয় অভিভাবকের সাথে একটি দিন</th>
+            <th>23</th>
+            <th>2</th>
+            <th>80%</th>
+          </tr>
+        <tr>
+            <th>প্রিয় দলের জন্য শুভকামনা</th>
+            <th>9</th>
+            <th>4</th>
+            <th>36%</th>
+        </tr>
+        <tr>
+            <th>Me Vs Others</th>
+            <th>17</th>
+            <th>2</th>
+            <th>68%</th>
+            
+        </tr>
+        <tr>
+            <th>Finally we reached Cox's Bazar</th>
+            <th>15</th>
+            <th>4</th>
+            <th>87%</th>
+        </tr>
+        <tr>
+            <th>Happy new year</th>
+            <th>13</th>
+            <th>2</th>
+            <th>48%</th>
+        </tr>
+        <tr>
+            <th>Uss bhaii Uss</th>
+            <th>14</th>
+            <th>1</th>
+            <th>53%</th>
+        </tr>
+        <tr>
+            <th>"JHAL MURI" Khaba?</th>
+            <th>12</th>
+            <th>1</th>
+            <th>29%</th>
+        </tr>
+        <tr>
+            <th>দোস্ত, ট্যুরে চল</th>
+            <th>11</th>
+            <th>1</th>
+            <th>25%</th>
+        </tr>
+        <tr>
+            <th>Others Vs We</th>
+            <th>25</th>
+            <th>3</th>
+            <th>86%</th>
+        </tr>
+        <tr>
+            <th>Welcome to Sultan's Dine</th>
+            <th>14</th>
+            <th>6</th>
+            <th>78%</th>
+
+        </tr>
+        <tr>
+            <th>Too hard</th>
+            <th>3</th>
+            <th>1</th>
+            <th>19%</th>
+        </tr>
+
+</tbody>
+<tfoot>
+    <th colspan="4"> Total Engagement: 75%  </th>
+</tfoot> </table>
+</table>
+
+<hr>
+ <h3>Rate US:</h3>
+
+ <form action="">
+    <p>Required fields are followed by *</p>
+    <h2>Your Information & Ratting</h2>
+    <p>Name: * <input type="text" name="Name" required> </p>
+    <fieldset>
+        <legend>Gender *</legend>
+        <p>Male <input type="radio" name="gender" id="Male" required>
+        Female <input type="radio" name="gender" id="Female" required>
+
+
+        </p>
+
+        
+    </fieldset>
+
+ <p>Address: <textarea name="address" id="address" cols="100"
+    rows="5"></textarea> </p>
+    <p>Email: * <input type="email" name="email" id="email" required> </p>
+    <p>Pincode: <input type="pincode" name="pincode" id="pincode"> </p>
+    <p>Mobile No: * <input type="mobile no" name="mobile no" id="mobile no" required></p>
+
+    <h2>Ratting Information</h2>
+    <p>Who is your favorite Creator: *
+        <select name="Creator" id="Creator">
+            <option value="">Select</option>
+            <option value="TAMIM">TAMIM</option>
+            <option value="SHAKIB">SHAKIB</option>
+            <option value="NAYEM">NAYEM</option>
+
+
+
+
+        </select>
+    </p>
+    <P>
+        Which video do you like most:
+        <select name="Favorite Video" id="Favorite Video">
+            <option value="">Select</option>
+            <option value="প্রিয় অভিভাবকের সাথে একটি দিন">প্রিয় অভিভাবকের সাথে একটি দিন</option>
+            <option value="প্রিয় দলের জন্য শুভকামনা
+            ">প্রিয় দলের জন্য শুভকামনা
+        </option>
+        <option value="Me Vs Others">Me Vs Others</option>
+        <option value="Finally we reached Cox's Bazar">Finally we reached Cox's Bazar</option>
+        <option value="Happy new year">Happy new year</option>
+        <option value="Uss bhaii Uss">Uss bhaii Uss</option>
+        <option value="JHAL MURI Khaba?">"JHAL MURI" Khaba?</option>
+        <option value="দোস্ত, ট্যুরে চল">দোস্ত, ট্যুরে চল</option>
+        <option value="Others Vs We">Others Vs We</option>
+        <option value="Welcome to Sultan's Dine">Welcome to Sultan's Dine</option>
+        <option value="Too hard">Too hard</option>
+ </select>
+    </P>
+<p> Your Personal Ratting about Bheda-69. (1-10): *
+    <input type="number" name="ratting" id="ratting" required>
+
+</p> 
+<p>Date:
+    <input type="date" name="date" id="date">
+</p>
+
+<input type="submit" value=" submit ">
+
+ </form> 
+
+</body>
+</html>
